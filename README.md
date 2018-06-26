@@ -7,6 +7,7 @@ Lab for upcoming semesters. CNN Application.
 - Matplotlib
 - Pillow
 - Pandas
+
 **2. TensorFlow**
 
 ## Dataset:

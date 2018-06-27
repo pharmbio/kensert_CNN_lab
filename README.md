@@ -17,7 +17,7 @@ _The anaconda way:_ </br>
 - `pip install pillow`
 - `pip install pandas`
 
-**3. Open jupyter lab:**
+**3. Open jupyter lab (or jupyter notebook):**
 - Write `jupyter lab` or `jupyter notebook`
 - Open `lab_student.ipynb` or `lab_full.ipynb`
 - Inside jupyter lab import modules

@@ -3,7 +3,7 @@ Lab for upcoming semesters. CNN Application.
 
 ## How to do the lab:
 
-**1. TensorFlow**<br/>
+**1. TensorFlow env:**<br/>
 _The anaconda way:_ </br>
 - Install anaconda
 - Create env: `conda create -n tensorflow`
@@ -11,14 +11,14 @@ _The anaconda way:_ </br>
 
 **2. Inside TensorFlow env:**<br/>
 - `pip install tensorflow`
-- `pip install jupyter lab`
+- `pip install jupyter lab` or `pip install jupyter notebook`
 - `pip install numpy`
 - `pip install matplotlib`
 - `pip install pillow`
 - `pip install pandas`
 
 **3. Open jupyter lab:**
-- Write `jupyter lab`
+- Write `jupyter lab` or `jupyter notebook`
 - Open `lab_student.ipynb` or `lab_full.ipynb`
 - Inside jupyter lab import modules
 - Continue with the lab
